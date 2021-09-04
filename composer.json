@@ -34,5 +34,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações de código phan e cs."
-    }
+    },
+    "bin": ["buscar-cursos.php"]
 }
